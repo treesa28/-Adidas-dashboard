@@ -1,6 +1,6 @@
 # Adidas Sales Analysis Dashboard
 
-![Adida Dashboard](./adidas dashboard.png)
+![Adidas Dashboard](./Adidas%20Report.png)
 
 ## 1. Project Title / Headline
 - **Adidas Sales Performance & Insights Dashboard**
