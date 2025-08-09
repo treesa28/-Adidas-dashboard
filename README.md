@@ -1,6 +1,5 @@
 # Adidas Sales Analysis Dashboard
 
-![Adidas Dashboard](./Adidas%20Report.png)
 
 ## 1. Project Title / Headline
 - **Adidas Sales Performance & Insights Dashboard**
@@ -31,3 +30,6 @@
 - **Product Performance:** Top-selling categories, with Men's Street Footwear leading at $207M.
 - **Retailer Impact:** Ranking of top retailers, led by West Gear at $241M.
 - **Date & Region Filters:** Dynamic filtering for targeted analysis.
+
+
+![Adidas Dashboard](./Adidas%20Report.png)
